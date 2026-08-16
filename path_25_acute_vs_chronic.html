@@ -159,29 +159,23 @@
         </div>
     </div>
     <script>
-        const categoryKeys = ["acute_inflammation", "chronic_inflammation"];
-        const categoryLabels = {"acute_inflammation": "Acute Inflammation", "chronic_inflammation": "Chronic Inflammation"};
+        const categoryKeys = ["onset", "duration", "predominant_cells", "nature_of_the_process", "typical_result"];
+        const categoryLabels = {"onset": "Onset", "duration": "Duration", "predominant_cells": "Predominant cells", "nature_of_the_process": "Nature of the process", "typical_result": "Typical result"};
 
         const gameData = {
-            "Onset": {
-                "acute_inflammation": "Within minutes to hours after injury",
-                "chronic_inflammation": "About 48 hours after injury or later"
+            "Acute Inflammation": {
+                "onset": "Within minutes to hours after injury",
+                "duration": "Hours to days",
+                "predominant_cells": "Neutrophils",
+                "nature_of_the_process": "Exudative, with vascular changes and edema",
+                "typical_result": "Pus and abscess formation"
             },
-            "Duration": {
-                "acute_inflammation": "Hours to days",
-                "chronic_inflammation": "Weeks, months, or even years"
-            },
-            "Predominant cells": {
-                "acute_inflammation": "Neutrophils",
-                "chronic_inflammation": "Macrophages, lymphocytes, and plasma cells"
-            },
-            "Nature of the process": {
-                "acute_inflammation": "Exudative, with vascular changes and edema",
-                "chronic_inflammation": "Proliferative, with fibrosis and angiogenesis"
-            },
-            "Typical result": {
-                "acute_inflammation": "Pus and abscess formation",
-                "chronic_inflammation": "Fibrosis and granulomas"
+            "Chronic Inflammation": {
+                "onset": "About 48 hours after injury or later",
+                "duration": "Weeks, months, or even years",
+                "predominant_cells": "Macrophages, lymphocytes, and plasma cells",
+                "nature_of_the_process": "Proliferative, with fibrosis and angiogenesis",
+                "typical_result": "Fibrosis and granulomas"
             }
         };
 
