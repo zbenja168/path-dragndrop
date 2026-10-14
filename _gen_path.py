@@ -40,7 +40,7 @@ ICONS = ["🫘", "💧", "🧬", "⚗️", "🔬", "🧪", "💊", "🩺"]
 def load_bricks():
     """Import all brick_NN.py files in number order, then the cross-brick synthesis at the end."""
     bricks = []
-    for i in range(1, 37):
+    for i in range(1, 42):
         path = os.path.join(DATA_DIR, f"brick_{i:02d}.py")
         if not os.path.exists(path):
             print(f"  WARNING: missing {path}")
