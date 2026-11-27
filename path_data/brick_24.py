@@ -4,6 +4,7 @@ BRICK = {
     "games": [
         {
             "slug": "immune_diarrheal_diseases",
+            "images": {"Dermatitis herpetiformis": "pic_img/msk-47-030.jpg"},
             "title": "Immune-Related Diarrheal Diseases",
             "subtitle": "Match each immune-mediated GI condition to its location and distinguishing feature",
             "categories": ["Condition", "Location", "Distinguishing Feature"],
@@ -32,6 +33,7 @@ BRICK = {
         },
         {
             "slug": "infectious_causes_diarrhea",
+            "images": {"Herpes simplex virus": "pic_img/papic-210.jpg", "Cytomegalovirus": "pic_img/mipic-011.jpg", "Giardia lamblia": "pic_img/mipic-089.jpg", "Campylobacter jejuni": "pic_img/mipic-333.jpg"},
             "title": "Infectious Causes of Diarrhea",
             "subtitle": "Match each pathogen to its diagnostic clue and characteristic complication",
             "categories": ["Pathogen", "Diagnostic Clue", "Key Complication"],
@@ -65,6 +67,7 @@ BRICK = {
         },
         {
             "slug": "extraintestinal_ibd",
+            "images": {"Primary sclerosing cholangitis": "pic_img/papic-099.jpg", "Erythema nodosum": "pic_img/papic-220.jpg"},
             "title": "Extraintestinal Manifestations of IBD",
             "subtitle": "Match each extraintestinal manifestation of IBD to its organ system and description",
             "categories": ["Manifestation", "Organ System", "Description"],

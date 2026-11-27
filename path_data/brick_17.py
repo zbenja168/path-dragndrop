@@ -4,6 +4,7 @@ BRICK = {
     "games": [
         {
             "slug": "gas_post_infectious_sequelae",
+            "images": {"Erythema marginatum": "pic_img/repic-407.jpg"},
             "title": "Group A Strep: Post-Infectious Sequelae",
             "subtitle": "Match each streptococcal complication to its immune mechanism, target tissue, and hallmark finding",
             "categories": ["Immune Mechanism", "Target Tissue", "Hallmark Finding"],
@@ -42,6 +43,7 @@ BRICK = {
         },
         {
             "slug": "intracellular_pathogens_arthritis",
+            "images": {"Neisseria meningitidis": "pic_img/mipic-299.jpg"},
             "title": "Intracellular Pathogens and Arthritis",
             "subtitle": "Match each pathogen to its microbiology, distinguishing feature, and associated arthritis",
             "categories": ["Microbiology", "Distinguishing Feature", "Associated Arthritis"],
@@ -70,6 +72,7 @@ BRICK = {
         },
         {
             "slug": "granulomatous_diseases",
+            "images": {"Sarcoidosis": "pic_img/blpic-049.jpg", "Granulomatosis with polyangiitis": "pic_img/capic-131.jpg"},
             "title": "Causes of Granulomatous Inflammation",
             "subtitle": "Match each granulomatous disease to its etiology, granuloma type, and hallmark finding",
             "categories": ["Etiology", "Granuloma Type", "Hallmark Finding"],

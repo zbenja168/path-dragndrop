@@ -32,6 +32,7 @@ BRICK = {
         },
         {
             "slug": "chronic_cells",
+            "images": {"Neutrophil": "pic_img/impic-099.jpg"},
             "title": "Cells of Chronic Inflammation",
             "subtitle": "Match each cell to its identity, main role, and signature feature",
             "categories": ["Identity", "Main Role", "Signature Feature"],

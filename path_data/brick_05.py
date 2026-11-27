@@ -65,6 +65,7 @@ BRICK = {
         },
         {
             "slug": "stains_and_tissue_tests",
+            "images": {"Masson trichrome": "pic_img/papic-165.jpg"},
             "title": "Stains and Tissue Tests",
             "subtitle": "Match each stain or test to its target, its color result, and its clinical use",
             "categories": ["Target", "Color / Result", "Clinical Use"],

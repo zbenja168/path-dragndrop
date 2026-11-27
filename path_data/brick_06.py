@@ -93,6 +93,7 @@ BRICK = {
         },
         {
             "slug": "morphologic_patterns",
+            "images": {"Serous": "pic_img/papic-132.jpg", "Fibrinous": "pic_img/papic-133.jpg", "Ulcerative": "pic_img/papic-134.jpg"},
             "title": "Morphologic Patterns of Acute Inflammation",
             "subtitle": "Match each pattern to its fluid or content, defining feature, and classic example",
             "categories": ["Fluid or Content", "Defining Feature", "Classic Example"],

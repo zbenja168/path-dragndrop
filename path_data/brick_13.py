@@ -93,6 +93,7 @@ BRICK = {
         },
         {
             "slug": "thrombotic_conditions",
+            "images": {"Pulmonary embolism": "pic_img/repic-361.jpg"},
             "title": "Thrombotic Conditions Compared",
             "subtitle": "Match each condition to its mechanism, location, and key clinical consequence",
             "categories": ["Underlying mechanism", "Typical location or setting", "Key clinical consequence"],

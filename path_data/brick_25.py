@@ -4,6 +4,7 @@ BRICK = {
     "games": [
         {
             "slug": "liver_disease_overview",
+            "images": {"Primary Sclerosing Cholangitis": "pic_img/papic-039.jpg"},
             "title": "Inflammatory Liver Diseases at a Glance",
             "subtitle": "Match each cause of jaundice to the structure it attacks, its typical patient, and a key association",
             "categories": ["Structure Attacked", "Typical Patient", "Genetic / Disease Association"],
@@ -32,6 +33,7 @@ BRICK = {
         },
         {
             "slug": "histo_buzzwords",
+            "images": {"Primary Sclerosing Cholangitis": "pic_img/papic-099.jpg"},
             "title": "Histology and Diagnostic Buzzwords",
             "subtitle": "Match each liver disease to its hallmark histology, its signature buzzword, and the confirmatory test",
             "categories": ["Hallmark Histology", "Signature Buzzword", "Confirmatory Test"],
@@ -60,6 +62,7 @@ BRICK = {
         },
         {
             "slug": "clinical_course",
+            "images": {"Primary Sclerosing Cholangitis": "pic_img/papic-039.jpg"},
             "title": "Presentation and Progression",
             "subtitle": "Match each disease to its presenting symptoms, a distinguishing lab, and its complication",
             "categories": ["Presenting Symptoms", "Distinguishing Lab", "Complication / Outcome"],

@@ -4,6 +4,7 @@ BRICK = {
     "games": [
         {
             "slug": "systemic_autoimmune_diseases",
+            "images": {"Granulomatosis with Polyangiitis": "pic_img/capic-131.jpg", "Henoch-Schonlein Purpura": "pic_img/capic-133.jpg", "Goodpasture Syndrome": "pic_img/repic-222.jpg"},
             "title": "Systemic Autoimmune Diseases",
             "subtitle": "Match each disease to its key autoantibody/target, classic presentation, and hallmark feature",
             "categories": ["Key Autoantibody / Target", "Classic Presentation", "Hallmark Feature"],
@@ -37,6 +38,7 @@ BRICK = {
         },
         {
             "slug": "sle_manifestations",
+            "images": {"Malar Rash": "pic_img/msk-51-025.jpg"},
             "title": "SLE Multisystem Manifestations",
             "subtitle": "Match each lupus manifestation to the site affected, clinical finding, and underlying mechanism",
             "categories": ["Site Affected", "Clinical Finding", "Underlying Mechanism"],

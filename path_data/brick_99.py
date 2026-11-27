@@ -80,6 +80,7 @@ BRICK = {
         },
         {
             "slug": "thrombosis_embolism_shock",
+            "images": {"Deep Vein Thrombosis (Brick 13)": "pic_img/repic-472.jpg"},
             "title": "Thrombosis, Embolism, and Shock Across Bricks",
             "subtitle": "Match each hemodynamic disorder to its underlying mechanism, key risk or trigger, and distinguishing feature.",
             "categories": ["Underlying Mechanism", "Key Risk or Trigger", "Distinguishing Feature"],
@@ -156,6 +157,7 @@ BRICK = {
         },
         {
             "slug": "chronic_infections_across_bricks",
+            "images": {"Helicobacter pylori (Brick 34)": "pic_img/gipic-045.jpg", "Lyme Disease (Brick 21)": "pic_img/msk-55-035.jpg"},
             "title": "Chronic Infections Across Bricks",
             "subtitle": "Match each persistent infection to its causative organism, natural history, and key complication or clue.",
             "categories": ["Causative Organism", "Natural History", "Key Complication or Clue"],

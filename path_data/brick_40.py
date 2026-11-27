@@ -118,6 +118,7 @@ BRICK = {
         },
         {
             "slug": "clinical_correlations",
+            "images": {"Pemphigus vulgaris": "pic_img/msk-47-027.jpg", "Bullous pemphigoid": "pic_img/msk-47-028.jpg"},
             "title": "Glands and Junctions in Disease",
             "subtitle": "Match each condition to the structure involved, the mechanism and a key feature",
             "categories": ["Structure involved", "Mechanism", "Key feature"],

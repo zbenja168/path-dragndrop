@@ -37,6 +37,7 @@ BRICK = {
         },
         {
             "slug": "granuloma_causes",
+            "images": {"Sarcoidosis": "pic_img/blpic-049.jpg", "Granulomatosis with polyangiitis": "pic_img/capic-131.jpg"},
             "title": "Causes of Granulomatous Disease",
             "subtitle": "Match each granulomatous disease to its granuloma type, key test and clinical clue",
             "categories": ["Granuloma character", "Helpful test or finding", "Clinical clue"],
@@ -70,6 +71,7 @@ BRICK = {
         },
         {
             "slug": "systemic_immune_diseases",
+            "images": {"Granulomatosis with polyangiitis": "pic_img/capic-131.jpg", "Henoch-Schonlein purpura (IgA vasculitis)": "pic_img/capic-133.jpg", "Goodpasture syndrome": "pic_img/repic-222.jpg"},
             "title": "Systemic Autoimmune and Immune-mediated Diseases",
             "subtitle": "Compare SLE, Goodpasture syndrome, GPA and HSP across mechanism, marker, patient and organs",
             "categories": ["Immune mechanism", "Diagnostic marker", "Typical patient", "Classic organ findings"],

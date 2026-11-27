@@ -60,6 +60,7 @@ BRICK = {
         },
         {
             "slug": "cancer_associations",
+            "images": {"Acanthosis nigricans": "pic_img/bopic-059.jpg"},
             "title": "Signature Cancer Associations",
             "subtitle": "Match each paraneoplastic syndrome to its most commonly associated cancer and hallmark clinical clue",
             "categories": ["Most Associated Cancer", "Hallmark Clue"],

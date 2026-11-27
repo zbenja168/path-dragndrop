@@ -4,6 +4,7 @@ BRICK = {
     "games": [
         {
             "slug": "innate_immunodeficiencies",
+            "images": {"Chediak-Higashi syndrome": "pic_img/impic-064.jpg"},
             "title": "Primary Immunodeficiencies of Innate Immunity",
             "subtitle": "Match each inherited innate-immunity syndrome to its defective component and hallmark finding",
             "categories": ["Defective Component / Gene", "Mechanism of Defect", "Hallmark Finding"],
@@ -80,6 +81,7 @@ BRICK = {
         },
         {
             "slug": "evading_innate",
+            "images": {"Cryptococcus neoformans": "pic_img/mipic-080.jpg", "Streptococcus pneumoniae": "pic_img/mipic-293.jpg"},
             "title": "Pathogen Strategies Against Innate Immunity",
             "subtitle": "Match each pathogen to the evasion strategy it uses and the result",
             "categories": ["Pathogen", "Evasion Strategy", "Result"],
@@ -118,6 +120,7 @@ BRICK = {
         },
         {
             "slug": "evading_adaptive",
+            "images": {"Staphylococcus aureus": "pic_img/mipic-286.jpg"},
             "title": "Pathogen Strategies Against Adaptive Immunity",
             "subtitle": "Match each pathogen to its mechanism of evading adaptive immunity and the consequence",
             "categories": ["Pathogen", "Evasion Mechanism", "Consequence"],

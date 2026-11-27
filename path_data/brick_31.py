@@ -32,6 +32,7 @@ BRICK = {
         },
         {
             "slug": "predisposition_syndromes",
+            "images": {"Fanconi anemia": "pic_img/blpic-075.jpg"},
             "title": "Cancer Predisposition Syndromes",
             "subtitle": "Match each inherited syndrome to its defective repair pathway, cancer risk, and distinctive feature",
             "categories": ["Defective Repair Pathway", "Cancer Risk", "Distinctive Feature"],

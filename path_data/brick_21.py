@@ -4,6 +4,7 @@ BRICK = {
     "games": [
         {
             "slug": "aids_opportunistic_infections",
+            "images": {"Candida albicans": "pic_img/gipic-071.jpg", "Cytomegalovirus (CMV)": "pic_img/mipic-011.jpg", "Herpes simplex virus (HSV)": "pic_img/papic-210.jpg"},
             "title": "Opportunistic Infections in AIDS",
             "subtitle": "Match each opportunistic pathogen to its organism class, key manifestation, and diagnostic clue",
             "categories": ["Organism Class", "Key Manifestation in AIDS", "Diagnostic Clue"],
@@ -37,6 +38,7 @@ BRICK = {
         },
         {
             "slug": "aids_secondary_neoplasms",
+            "images": {"Classic Hodgkin lymphoma (subset)": "pic_img/papic-016.jpg"},
             "title": "AIDS-Associated Neoplasms",
             "subtitle": "Match each secondary neoplasm to its associated virus and defining feature",
             "categories": ["Associated Virus", "Cell Origin", "Key Feature"],

@@ -113,6 +113,7 @@ BRICK = {
         },
         {
             "slug": "neoplasm_hallmarks",
+            "images": {"Burkitt lymphoma": "pic_img/blpic-011.jpg", "Cutaneous melanoma": "pic_img/papic-107.jpg"},
             "title": "Neoplasms: Histology and Molecular Hallmark",
             "subtitle": "Match each neoplasm to its cell of origin, characteristic histology, and molecular alteration",
             "categories": ["Cell / Tissue of Origin", "Characteristic Histology", "Molecular Alteration"],

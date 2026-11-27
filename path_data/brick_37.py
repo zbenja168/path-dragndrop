@@ -32,6 +32,7 @@ BRICK = {
         },
         {
             "slug": "histologic_stains",
+            "images": {"Masson's trichrome": "pic_img/papic-165.jpg"},
             "title": "Histologic Stains",
             "subtitle": "Match each stain to what it highlights and how the result looks or is used",
             "categories": ["Highlights", "Result / classic use"],

@@ -4,6 +4,7 @@ BRICK = {
     "games": [
         {
             "slug": "pathogen_to_neoplasm",
+            "images": {"Helicobacter pylori": "pic_img/gipic-045.jpg", "Epstein-Barr virus (EBV)": "pic_img/mipic-156.jpg", "Human herpesvirus 8 (HHV-8)": "pic_img/mipic-157.jpg"},
             "title": "Pathogens and Their Neoplasms",
             "subtitle": "Match each oncogenic pathogen to its type, associated neoplasm, and oncogenic mechanism",
             "categories": ["Pathogen Type", "Key Associated Neoplasm", "Oncogenic Mechanism"],
@@ -42,6 +43,7 @@ BRICK = {
         },
         {
             "slug": "histologic_hallmarks",
+            "images": {"Classic Hodgkin lymphoma": "pic_img/papic-016.jpg", "Burkitt lymphoma": "pic_img/blpic-011.jpg", "Adult T-cell leukemia/lymphoma": "pic_img/papic-019.jpg"},
             "title": "Histologic Hallmarks",
             "subtitle": "Match each neoplasm to its classic histologic finding and the associated pathogen",
             "categories": ["Neoplasm", "Histologic Hallmark", "Associated Pathogen"],
@@ -80,6 +82,7 @@ BRICK = {
         },
         {
             "slug": "tumorigenesis_mechanisms",
+            "images": {"HHV-8": "pic_img/mipic-157.jpg", "EBV": "pic_img/mipic-156.jpg", "Helicobacter pylori": "pic_img/gipic-045.jpg"},
             "title": "Mechanisms of Tumorigenesis",
             "subtitle": "Match each pathogen to its key molecular player and the resulting effect",
             "categories": ["Pathogen", "Key Molecular Player", "Result"],
@@ -118,6 +121,7 @@ BRICK = {
         },
         {
             "slug": "transmission_epidemiology",
+            "images": {"EBV": "pic_img/mipic-156.jpg", "HHV-8": "pic_img/mipic-157.jpg"},
             "title": "Transmission and Epidemiology",
             "subtitle": "Match each pathogen to its main mode of transmission and the classic at-risk or endemic group",
             "categories": ["Pathogen", "Main Transmission", "Endemic / At-Risk Group"],

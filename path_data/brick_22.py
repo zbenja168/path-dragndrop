@@ -32,6 +32,7 @@ BRICK = {
         },
         {
             "slug": "liver_donor_pathology",
+            "images": {"Steatosis": "pic_img/gipic-118.jpg"},
             "title": "Donor Liver Frozen-Section Findings",
             "subtitle": "Match each donor-liver pathology to its appearance, site affected, and transplant implication",
             "categories": ["Definition / Appearance", "Site or Cell Affected", "Transplant Implication"],

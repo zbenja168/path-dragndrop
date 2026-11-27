@@ -37,6 +37,7 @@ BRICK = {
         },
         {
             "slug": "edema_effusion_vocab",
+            "images": {"Pleural effusion": "pic_img/repic-244.jpg", "Ascites": "pic_img/repic-487.jpg"},
             "title": "Edema and Effusion Vocabulary",
             "subtitle": "Match each term to its meaning, site of fluid, and associated note",
             "categories": ["What It Means", "Site of Fluid", "Associated Note"],
